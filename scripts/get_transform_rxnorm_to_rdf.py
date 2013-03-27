@@ -5,6 +5,7 @@ import logging
 import zipfile as zf
 import os
 
+import glob
 
 def extract_zip_file(file_name, directory=None):
     """"Extract a zipfile into a directory"""
