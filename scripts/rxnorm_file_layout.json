@@ -29,10 +29,12 @@
          "7": "rela",
          "8": "rui",
          "9": "srui",
-        "10": "sl",
-        "11": "rg",
-        "12": "suppress",
-        "13": "cvf"
+        "10": "sab",
+        "11": "sl",
+        "12": "rg",
+        "13": "dir",
+        "14": "suppress",
+        "15": "cvf"
         },
     "RXNSAT.RRF" :
         {"0": "rxcui",
